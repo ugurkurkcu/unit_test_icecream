@@ -1,4 +1,4 @@
-<h1 style="text-shadow: 2px 2px 7px white;">Unit Test with React - Bootstrap </h1>
+<h1>Unit Test with React - Bootstrap </h1>
 
 <hr>
 
